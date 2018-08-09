@@ -11,6 +11,7 @@ import cn.tiger.service.IUserService;
 @Controller
 @RequestMapping("/devBook")
 public class TestController {
+//	private static Logger logger = Logger.getLogger(TestController.class);
 	@Autowired(required=true)
 	private IUserService userService;
 	@RequestMapping(value="/test")
