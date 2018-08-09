@@ -2,3 +2,7 @@
 RemoteSystemsTempFiles
 Servers
 target
+.classpath
+.settings
+.project
+.properties
